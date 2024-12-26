@@ -22,13 +22,13 @@ This project focuses on developing a robust drought prediction model using meteo
 Below are a few examples of Tableau visualizations used in the project:
 
 ### Example 1: Drought Severity by Region
-![Drought Severity Visualization](./images/drought_severity.png)
+![Drought Severity Visualization](./images/image2.png)
 
-### Example 2: Clustering Results
-![Clustering Visualization](./images/clustering_results.png)
+### Example 2: Correlation Heatmap
+![Clustering Visualization](./images/correlation_heatmap.png)
 
 ### Example 3: Predictive Model Performance
-![Model Performance Visualization](./images/model_performance.png)
+![Model Performance Visualization](./images/image.png)
 
 ## Steps to Reproduce
 1. **Data Preparation:** Import meteorological data into SAS EM and preprocess it for clustering and modeling.
