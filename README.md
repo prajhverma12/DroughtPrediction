@@ -14,6 +14,22 @@ This project focuses on developing a robust drought prediction model using meteo
 - **Tableau:** For creating interactive visualizations and presenting data insights.
 - **Predictive Models:** Decision Trees, Regression, and Neural Networks.
 
+## Data Sources
+- **Meteorological Data:** Sourced from [Kaggle Dataset](https://www.kaggle.com/datasets/cdminix/us-drought-meteorological-data/data).
+- **Drought-Prone Counties:** Referenced from [Groundworks Article](https://www.groundworks.com/resources/worst-us-cities-for-drought/#:~:text=Percentage%2520of%2520Time%2520Spent%2520in%2520Drought%2520*,Apache%2520County:%252050%25%2520*%2520Coconino%2520County:%252042%25).
+
+## Data Visualization Examples
+Below are a few examples of Tableau visualizations used in the project:
+
+### Example 1: Drought Severity by Region
+![Drought Severity Visualization](./images/drought_severity.png)
+
+### Example 2: Clustering Results
+![Clustering Visualization](./images/clustering_results.png)
+
+### Example 3: Predictive Model Performance
+![Model Performance Visualization](./images/model_performance.png)
+
 ## Steps to Reproduce
 1. **Data Preparation:** Import meteorological data into SAS EM and preprocess it for clustering and modeling.
 2. **Clustering:** Use clustering techniques in SAS EM to identify patterns and segment data.
